@@ -1,0 +1,9 @@
+{
+  "Name": "RelocateSaves",
+  "Author": "Pillow",
+  "Version": "1.0.0",
+  "Description": "A mod to move the save file storage location.",
+  "UniqueID": "Pillow.RelocateSaves",
+  "EntryDll": "RelocateSaves.dll",
+  "UpdateKeys": []
+}
