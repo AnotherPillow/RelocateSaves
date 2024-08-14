@@ -5,5 +5,7 @@
   "Description": "A mod to move the save file storage location.",
   "UniqueID": "Pillow.RelocateSaves",
   "EntryDll": "RelocateSaves.dll",
-  "UpdateKeys": []
+  "UpdateKeys": [
+    "Nexus:26992"
+  ]
 }
